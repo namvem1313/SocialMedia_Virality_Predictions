@@ -1,0 +1,5 @@
+creator_id,creator_cost,audience_reach,engagement_rate,ugc_generated,campaign_type,region,content_type
+C101,300,15000,0.12,12,music,UX,skit
+C102,200,12000,0.1,7,product,MX,tutorial
+C103,500,25000,0.18,5,music,US,dance
+C104,400,18000,0.15,9,launch,BR,prank
