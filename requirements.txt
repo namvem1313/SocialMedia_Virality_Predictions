@@ -10,3 +10,4 @@ jupyter
 sentence-transformers
 python-dotenv
 streamlit
+prophet
