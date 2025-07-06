@@ -10,9 +10,9 @@ from src.roi_optimizer import optimize_roi
 from src.recommender import combine_scores
 
 
-st.set_page_config(page_title="Influur Pulse Dashboard")
+st.set_page_config(page_title="SocialMedia_Virality_Predictions Dashboard")
 
-st.title("🎬 Influur Pulse – AI-Powered Influencer Campaign Engine")
+st.title("🎬 SocialMedia_Virality_Predictions – AI Powered Influencer Campaign Engine")
 
 # Define tabs
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
