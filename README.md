@@ -1,13 +1,13 @@
 Author - Lakshmi Namratha Vempaty
 
 Project Overview
-Influur Pulse is a modular Streamlit dashboard for influencer marketing campaign planning, designed to recommend optimal TikTok creators for music or brand campaigns using predictive AI and campaign analytics.
+SocialMedia_Virality_Predictions is a modular Streamlit dashboard for influencer marketing campaign planning, designed to recommend optimal TikTok creators for music or brand campaigns using predictive AI and campaign analytics.
 
 Folder Structure
 bash
 Copy
 Edit
-influur_pulse/
+SocialMedia_Virality_Predictions/
 │
 ├── app.py                       # Streamlit app
 ├── requirements.txt             # Python dependencies
@@ -33,8 +33,8 @@ Local Setup
 
 Clone repository
 
-    git clone https://github.com/your_username/influur_pulse.git
-    cd influur_pulse
+    git clone https://github.com/your_username/SocialMedia_Virality_Predictions.git
+    cd SocialMedia_Virality_Predictions
 
 Create and activate virtual environment
 
